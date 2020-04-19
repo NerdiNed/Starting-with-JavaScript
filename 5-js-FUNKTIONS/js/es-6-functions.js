@@ -11,7 +11,7 @@
 
 // blaFunction("HI i am a function")
 
-// es6 Arrow function these are the new commonly used funxtions
+// es6 Arrow function these are the new commonly used functions
 
 // let blaFunction = (message1, message2) => {
 //     console.log(message1+ ", "+ message2)
